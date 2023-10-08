@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "dependencies": {
+    "@tailwindui/react": "^0.1.1",
+    "lodash": "^4.17.21"
+  }
+}
